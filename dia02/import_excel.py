@@ -6,4 +6,4 @@ df = pd.read_excel("../data/transactions.xlsx")
 # é preciso baixar a dependencia openpyxl
 
 # %% 
-df
+df.shape
